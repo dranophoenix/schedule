@@ -1,0 +1,9 @@
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log opened at 2012-10-06 13:25:25
+project --topLevelPackage starbucks.hobby --projectName schedule --java 6 --packaging POM
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log closed at 2012-10-06 13:25:25
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log opened at 2012-10-06 13:27:11
+module create --moduleName schedule-core --topLevelPackage ~ --packaging JAR
+module focus --moduleName ~
+module create --moduleName schedule-web --topLevelPackage ~ --packaging WAR
+web mvc setup
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log opened at 2012-10-06 14:38:49
